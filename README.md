@@ -152,6 +152,7 @@ print(cr_df)
 ```
 
 <H3>Output:</H3>
+
 ![image](https://github.com/user-attachments/assets/e3ebb232-e528-4bf6-8d18-a9ab7fc1e49f)
 
 
